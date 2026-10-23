@@ -1,0 +1,423 @@
+coverage
+                                 matches_with_player_stats  share_full_coverage
+competition            season                                                 
+PL2 Division 2         2022-23                        110             1.000000
+Premier League 2       2022-23                        182             0.994505
+                       2023-24                        275             0.989091
+                       2024-25                        275             0.996364
+                       2025-26                        305             0.996721
+                       2026-27                         70             0.971429
+U18 Premier League     2022-23                        289             0.996540
+                       2023-24                        313             0.980831
+                       2024-25                        313             0.993610
+                       2025-26                        393             0.951654
+                       2026-27                        103             0.980583
+U18 Premier League Cup 2022-23                         49             0.000000
+                       2023-24                         49             0.224490
+                       2024-25                         22             0.136364
+                       2025-26                         55             0.127273
+                       2026-27                         30             0.066667
+
+excluded {'under_900_youth_mins': 422, 'born_before_2002_or_unknown': 103, 'goalkeepers': 179, 'established_in_PL_first': 0}
+
+cohort 1092 {'Midfielder': 495, 'Defender': 425, 'Forward': 172} debuted 120 established 19
+
+by first youth season
+                    debuted      established     
+                       sum size         sum size
+first_youth_season                              
+2022-23                 91  656          15  656
+2023-24                 21  261           3  261
+2024-25                  8  175           1  175
+
+graduates
+                            name                   academy         pos birth_date        age first_youth_season    mins  pl2_share  youth_score  pl_apps  pl_minutes pl_first_season  established
+player_id                                                                                                                                                                                       
+487838               Lewis Hall                   Chelsea  Midfielder 2004-09-08  17.979466            2022-23  1372.0   1.000000     0.787859       91      6432.0         2022-23         True
+516895            Kobbie Mainoo         Manchester United  Midfielder 2005-04-19  17.368925            2022-23   989.0   1.000000     0.599177       84      5703.0         2022-23         True
+532529         Jack Hinshelwood  Brighton and Hove Albion  Midfielder 2005-04-11  17.390828            2022-23  1966.0   1.000000    -0.146909       68      4550.0         2022-23         True
+503301         Omari Hutchinson                   Chelsea     Forward 2003-10-29  18.841889            2022-23  1804.0   1.000000     1.542740       63      4296.0         2022-23         True
+547719              Lewis Miley          Newcastle United  Midfielder 2006-05-01  16.336756            2022-23  1190.0   0.621849     0.513707       62      3565.0         2022-23         True
+472769            Nico O'Reilly           Manchester City  Midfielder 2005-03-21  17.448323            2022-23  2691.0   0.393162     0.790087       49      3467.0         2024-25         True
+499169       Myles Lewis-Skelly                   Arsenal  Midfielder 2006-09-26  15.931554            2022-23  1573.0   0.656707     0.697857       48      2404.0         2024-25         True
+496661            Tyler Dibling               Southampton  Midfielder 2006-02-17  16.536619            2022-23  2383.0   0.588754     0.698951       49      2251.0         2024-25         True
+577725                Josh King                    Fulham  Midfielder 2007-01-03  15.660507            2022-23  2524.0   0.566957     0.064033       47      2011.0         2024-25         True
+477555               Oscar Bobb           Manchester City  Midfielder 2003-07-12  19.140315            2022-23  2150.0   1.000000     1.441193       47      1848.0         2023-24         True
+647671              Mateus Mané   Wolverhampton Wanderers     Forward 2007-09-16  16.960986            2024-25  1287.0   0.000000     1.058251       28      1791.0         2024-25         True
+441428           Jarell Quansah                 Liverpool    Defender 2003-01-29  19.589322            2022-23   990.0   1.000000     0.765382       30      1677.0         2023-24         True
+536109            Ollie Scarles           West Ham United  Midfielder 2005-12-12  16.720055            2022-23  3718.0   0.611619     0.304857       28      1321.0         2024-25         True
+489706           Justin Devenny            Crystal Palace  Midfielder 2003-10-11  19.890486            2023-24  1827.0   1.000000     0.223513       44      1285.0         2024-25         True
+577016          Josh Acheampong                   Chelsea    Defender 2006-05-05  16.325804            2022-23  1598.0   0.000000    -0.082560       28      1238.0         2023-24         True
+606745             Ayden Heaven                   Arsenal    Defender 2006-09-22  16.941821            2023-24  2572.0   0.755443     0.216706       23      1185.0         2024-25         True
+609873       Harrison Armstrong                   Everton  Midfielder 2007-01-19  16.616016            2023-24  1443.0   0.338877    -0.264576       23      1184.0         2024-25         True
+490142            Freddie Potts           West Ham United  Midfielder 2003-09-12  18.970568            2022-23  2013.0   1.000000     0.129177       22      1167.0         2025-26         True
+499175            Ethan Nwaneri                   Arsenal  Midfielder 2007-03-21  15.449692            2022-23  2617.0   0.677111     0.232614       34      1068.0         2022-23         True
+550615           Tyrique George                   Chelsea  Midfielder 2006-02-04  16.572211            2022-23  2810.0   0.232028     0.798152       30       902.0         2024-25        False
+611922              Rio Ngumoha                 Liverpool  Midfielder 2008-08-29  16.008214            2024-25  1261.0   0.553529     0.564493       24       704.0         2025-26        False
+463210             Shea Charles           Manchester City  Midfielder 2003-11-05  18.822724            2022-23  2328.0   1.000000     0.658118        8       492.0         2022-23        False
+499721              Mikey Moore         Tottenham Hotspur     Forward 2007-08-11  15.058179            2022-23  1651.0   0.000000     1.523053       14       454.0         2023-24        False
+461199           Romaine Mundle         Tottenham Hotspur  Midfielder 2003-04-24  19.356605            2022-23  1977.0   1.000000     0.274925       15       401.0         2025-26        False
+577974              Harry Amass         Manchester United    Defender 2007-03-16  16.462697            2023-24  2091.0   0.396461     0.188247        5       346.0         2024-25        False
+518466           Willy Kambwala         Manchester United    Defender 2004-08-25  18.017796            2022-23  1035.0   1.000000     0.186622        8       326.0         2023-24        False
+577285          George Hemmings               Aston Villa  Midfielder 2007-03-04  15.496235            2022-23  3829.0   0.176547     0.008446        7       324.0         2025-26        False
+463212            Carlos Borges           Manchester City     Forward 2004-03-19  18.453114            2022-23  1785.0   1.000000     1.441739       10       232.0         2024-25        False
+514280          Alfie Gilchrist                   Chelsea    Defender 2003-11-28  18.759754            2022-23  2601.0   1.000000    -0.124308       11       202.0         2023-24        False
+496208                 Ben Doak                 Liverpool     Forward 2005-11-11  16.804928            2022-23   988.0   1.000000     1.196774       17       200.0         2022-23        False
+531363            Nathan Fraser   Wolverhampton Wanderers     Forward 2005-02-22  17.522245            2022-23  2497.0   1.000000    -0.331844        7       183.0         2023-24        False
+589507             Leon Chiwome   Wolverhampton Wanderers     Forward 2006-01-10  16.640657            2022-23  1269.0   0.474389    -0.334911        3       175.0         2023-24        False
+490881             Toby Collyer         Manchester United  Midfielder 2004-01-03  18.661191            2022-23  1507.0   1.000000     0.718906        6       175.0         2024-25        False
+240299                Joe Hodge   Wolverhampton Wanderers  Midfielder 2002-09-14  19.964408            2022-23  1265.0   1.000000     0.772741        6       174.0         2022-23        False
+547676         Tyler Fredricson         Manchester United    Defender 2005-02-23  17.519507            2022-23  1771.0   1.000000     0.815797        3       168.0         2024-25        False
+549067              Zach Abbott         Nottingham Forest    Defender 2006-05-13  16.303901            2022-23  4590.0   1.000000    -0.346208        3       165.0         2025-26        False
+616077               Max Dowman                   Arsenal  Midfielder 2009-12-31  13.667351            2023-24  1773.0   0.000000     1.295075        7       162.0         2025-26        False
+596047                Chido Obi         Manchester United     Forward 2007-11-29  15.756331            2023-24  1344.0   0.000000     1.652470        7       160.0         2024-25        False
+515571              Juan Larios               Southampton    Defender 2004-01-12  18.636550            2022-23  1339.0   1.000000    -0.129080        5       152.0         2022-23        False
+531989               David Ozoh            Crystal Palace  Midfielder 2005-05-06  17.322382            2022-23  2092.0   1.000000    -0.020484       10       150.0         2022-23        False
+445548           Odeluga Offiah  Brighton and Hove Albion    Defender 2002-10-26  19.849418            2022-23  1432.0   1.000000     0.260233        6       150.0         2022-23        False
+591386        Treymaurice Nyoni                 Liverpool  Midfielder 2007-06-30  15.173169            2022-23  3392.0   0.699292     0.364511       11       141.0         2025-26        False
+487837             Divin Mubama           West Ham United     Forward 2004-10-25  17.850787            2022-23  3192.0   0.832080     0.268300        9       139.0         2022-23        False
+495024             Jay Robinson               Southampton  Midfielder 2007-03-15  15.466119            2022-23  3928.0   0.725560     0.184087        4       135.0         2024-25        False
+494307              Max Alleyne           Manchester City    Defender 2005-07-21  17.114305            2022-23  4804.0   0.590966     0.929924        2       135.0         2025-26        False
+602903              Ezra Mayers           West Ham United    Defender 2007-01-16  16.624230            2023-24  3985.0   0.578670    -0.060078        6       113.0         2025-26        False
+514514             Lewis Koumas                 Liverpool     Forward 2005-09-19  16.950034            2022-23  2355.0   0.554140     0.465593        5       108.0         2026-27        False
+547037            Jack Fletcher         Manchester United  Midfielder 2007-03-19  16.454483            2023-24  1560.0   0.451923     0.611327        3       107.0         2025-26        False
+597320             Harry Howell  Brighton and Hove Albion  Midfielder 2008-04-20  14.365503            2022-23  2590.0   0.556757     0.024177        4        99.0         2024-25        False
+566213            Stephen Mfuni           Manchester City    Defender 2008-02-12  15.550992            2023-24  1929.0   0.373769     0.765795        2        97.0         2026-27        False
+554194     Jahmai Simpson-Pusey           Manchester City    Defender 2005-11-04  16.824093            2022-23  4695.0   0.690735     0.583927        2        95.0         2024-25        False
+491970              Bobby Clark                 Liverpool  Midfielder 2005-02-07  17.563313            2022-23  2669.0   1.000000     0.622936        6        94.0         2022-23        False
+590014             Rio Cardines            Crystal Palace    Defender 2006-07-01  16.169747            2022-23  3098.0   0.311491    -0.334731        1        90.0         2025-26        False
+496178              Roman Dixon                   Everton    Defender 2004-12-26  17.681040            2022-23  3659.0   0.754851    -0.338361        1        90.0         2024-25        False
+515024              Luke Harris                    Fulham  Midfielder 2005-03-04  17.494867            2022-23  2006.0   1.000000    -0.396155        4        84.0         2022-23        False
+487828             Omari Forson         Manchester United  Midfielder 2004-07-20  18.116359            2022-23  2065.0   1.000000     0.315307        4        68.0         2023-24        False
+574402            Mark O’Mahony  Brighton and Hove Albion     Forward 2005-01-14  17.629021            2022-23  1264.0   1.000000     0.003851        3        61.0         2023-24        False
+604211           Tymur Tutierov                Sunderland  Midfielder 2005-06-11  18.223135            2023-24  1500.0   1.000000    -0.191086        1        59.0         2026-27        False
+565431          Callum Marshall           West Ham United     Forward 2004-11-28  17.757700            2022-23  3038.0   0.568466     1.146517        2        58.0         2025-26        False
+549074               Tom Watson                Sunderland  Midfielder 2006-04-08  16.399726            2022-23  3244.0   0.672935    -0.006032        6        57.0         2025-26        False
+
+separation (all outfield, debuted)
+     outcome      position                        stat                                                 label  n_made  n_not  mean_made   mean_not      diff     ci_lo     ci_hi       auc  age_adj_diff  age_adj_lo  age_adj_hi  clear
+29  debuted  All outfield                     age_rel  Age vs others at the same level (negative = younger)     120    972  -0.647518  -0.019172 -0.628346 -0.788855 -0.462110  0.285850           NaN         NaN         NaN   True
+16  debuted  All outfield              totalClearance                                            Clearances     120    972  -0.191164  -0.012027 -0.179137 -0.332712 -0.022316  0.433561     -0.183176   -0.342847   -0.006165   True
+17  debuted  All outfield             outfielderBlock                                                Blocks     120    972  -0.118969  -0.009607 -0.109362 -0.256388  0.046445  0.449837     -0.116151   -0.275600    0.034315  False
+14  debuted  All outfield                interception                                         Interceptions     120    972  -0.097418   0.005266 -0.102684 -0.246396  0.050577  0.462449     -0.110450   -0.263584    0.054927  False
+28  debuted  All outfield                         age                             Age at first youth season     120    972  17.276820  17.362512 -0.085692 -0.333728  0.174390  0.488559           NaN         NaN         NaN  False
+12  debuted  All outfield                 totalTackle                                     Tackles attempted     120    972  -0.069125   0.010415 -0.079540 -0.246150  0.076827  0.471073     -0.081190   -0.241054    0.083579  False
+20  debuted  All outfield                       fouls                                       Fouls committed     120    972  -0.073857   0.002604 -0.076462 -0.236244  0.090257  0.465123     -0.066450   -0.227068    0.111993  False
+13  debuted  All outfield                   wonTackle                                           Tackles won     120    972  -0.067296   0.004075 -0.071371 -0.231943  0.083950  0.472852     -0.074956   -0.229561    0.085079  False
+15  debuted  All outfield                ballRecovery                                       Ball recoveries     120    972   0.088445   0.006475  0.081970 -0.077631  0.239322  0.515132      0.082371   -0.085340    0.248569  False
+11  debuted  All outfield           accurateLongBalls                                   Accurate long balls     120    972   0.089318   0.005306  0.084011 -0.088056  0.264121  0.521373      0.083479   -0.089868    0.272854  False
+26  debuted  All outfield                 dribble_pct                                     Dribble success %     120    972   0.107510   0.006105  0.101405 -0.026396  0.219971  0.550943      0.102317   -0.013188    0.226327  False
+18  debuted  All outfield                 possLostAll                                       Possession lost     120    972   0.118800  -0.010054  0.128854 -0.045575  0.302123  0.535254      0.130642   -0.046779    0.306618  False
+25  debuted  All outfield                  aerial_pct                                         Aerials won %     120    972   0.122925  -0.025177  0.148103 -0.012909  0.302547  0.567233      0.154044    0.006017    0.306609  False
+27  debuted  All outfield          shot_on_target_pct                                     Shots on target %     120    972   0.165131   0.013032  0.152099  0.031152  0.280189  0.563701      0.152408    0.017612    0.284055   True
+19  debuted  All outfield                dispossessed                                          Dispossessed     120    972   0.178217  -0.014823  0.193040  0.011074  0.368616  0.556490      0.198380    0.008997    0.389013   True
+7   debuted  All outfield              penAreaEntries                                  Penalty-area entries     120    972   0.255482   0.017080  0.238402  0.047643  0.446534  0.560314      0.242593    0.036656    0.459101   True
+30  debuted  All outfield                   pl2_share            Share of youth minutes in PL2 (playing up)     120    972   0.669976   0.427754  0.242221  0.174792  0.313499  0.659997           NaN         NaN         NaN   True
+9   debuted  All outfield                   totalPass                                      Passes attempted     120    972   0.276389   0.000345  0.276044  0.080371  0.473217  0.565955      0.276479    0.077803    0.464218   True
+21  debuted  All outfield                   wasFouled                                             Fouls won     120    972   0.249894  -0.027756  0.277650  0.099276  0.456756  0.585802      0.279205    0.092589    0.464900   True
+23  debuted  All outfield                    pass_pct                                     Pass completion %     120    972   0.285085   0.002854  0.282231  0.118462  0.435118  0.585314      0.285060    0.106872    0.445997   True
+24  debuted  All outfield                    duel_pct                                           Duels won %     120    972   0.257321  -0.025568  0.282889  0.126600  0.429269  0.598302      0.283061    0.118887    0.442054   True
+1   debuted  All outfield                  goalAssist                                               Assists     120    972   0.329496  -0.008795  0.338291  0.176862  0.498411  0.617010      0.343990    0.175408    0.505202   True
+4   debuted  All outfield            bigChanceCreated                                   Big chances created     120    972   0.352864  -0.017942  0.370806  0.188279  0.556982  0.614318      0.378013    0.193636    0.563535   True
+22  debuted  All outfield                     touches                                               Touches     120    972   0.419832  -0.011188  0.431020  0.238029  0.606095  0.623465      0.432988    0.234363    0.627477   True
+5   debuted  All outfield              totalAttAssist                          Chances created (key passes)     120    972   0.455742  -0.013694  0.469436  0.281814  0.669103  0.635074      0.473750    0.281234    0.666525   True
+10  debuted  All outfield  successfulFinalThirdPasses                          Completed final-third passes     120    972   0.481540  -0.006197  0.487737  0.297622  0.675419  0.641058      0.491401    0.296222    0.697193   True
+0   debuted  All outfield                       goals                                                 Goals     120    972   0.479601  -0.017479  0.497079  0.319474  0.682285  0.647599      0.498875    0.305636    0.674052   True
+6   debuted  All outfield             touchesInOppBox                             Touches in opposition box     120    972   0.524436  -0.046360  0.570796  0.384231  0.768412  0.661926      0.569197    0.365009    0.783682   True
+8   debuted  All outfield                  wonContest                                    Dribbles completed     120    972   0.529692  -0.048774  0.578466  0.361519  0.815192  0.651166      0.581387    0.351262    0.801869   True
+3   debuted  All outfield          ontargetScoringAtt                                       Shots on target     120    972   0.583812  -0.028519  0.612331  0.423619  0.818303  0.681499      0.610690    0.400558    0.788344   True
+2   debuted  All outfield             totalScoringAtt                                                 Shots     120    972   0.609968  -0.052004  0.661972  0.460812  0.855447  0.677658      0.660244    0.462100    0.859680   True
+
+separation (all outfield, established)
+          outcome      position                        stat                                                 label  n_made  n_not  mean_made   mean_not      diff     ci_lo     ci_hi       auc  age_adj_diff  age_adj_lo  age_adj_hi  clear
+153  established  All outfield                     age_rel  Age vs others at the same level (negative = younger)      19   1073  -0.812057  -0.075404 -0.736653 -1.156611 -0.304772  0.281822           NaN         NaN         NaN   True
+144  established  All outfield                       fouls                                       Fouls committed      19   1073  -0.232635  -0.001781 -0.230854 -0.552737  0.097557  0.439005     -0.234763   -0.565589    0.102958  False
+137  established  All outfield                   wonTackle                                           Tackles won      19   1073  -0.059353  -0.002783 -0.056570 -0.329362  0.229526  0.494899     -0.069361   -0.377519    0.240794  False
+140  established  All outfield              totalClearance                                            Clearances      19   1073  -0.070950  -0.031018 -0.039932 -0.465609  0.370412  0.483127     -0.045902   -0.399928    0.400438  False
+136  established  All outfield                 totalTackle                                     Tackles attempted      19   1073  -0.034853   0.002321 -0.037175 -0.329431  0.268466  0.509099     -0.049980   -0.382488    0.242876  False
+152  established  All outfield                         age                             Age at first youth season      19   1073  17.373681  17.352730  0.020950 -0.528229  0.637964  0.501030           NaN         NaN         NaN  False
+142  established  All outfield                 possLostAll                                       Possession lost      19   1073   0.089130   0.002600  0.086530 -0.312178  0.485789  0.516702      0.077714   -0.290789    0.510413  False
+141  established  All outfield             outfielderBlock                                                Blocks      19   1073   0.068717  -0.023224  0.091941 -0.260056  0.467066  0.537328      0.082605   -0.254510    0.455118  False
+138  established  All outfield                interception                                         Interceptions      19   1073   0.099859  -0.007893  0.107752 -0.234750  0.442343  0.543238      0.087971   -0.236461    0.406943  False
+139  established  All outfield                ballRecovery                                       Ball recoveries      19   1073   0.128593   0.013480  0.115112 -0.237003  0.498707  0.536960      0.104773   -0.244887    0.517775  False
+135  established  All outfield           accurateLongBalls                                   Accurate long balls      19   1073   0.175952   0.011680  0.164271 -0.165756  0.496271  0.588267      0.160588   -0.178600    0.509638  False
+143  established  All outfield                dispossessed                                          Dispossessed      19   1073   0.201174   0.002942  0.198233 -0.309182  0.758203  0.534115      0.201056   -0.331816    0.815417  False
+151  established  All outfield          shot_on_target_pct                                     Shots on target %      19   1073   0.251173   0.025873  0.225300 -0.147743  0.595882  0.578160      0.242782   -0.153513    0.565031  False
+154  established  All outfield                   pl2_share            Share of youth minutes in PL2 (playing up)      19   1073   0.695288   0.450106  0.245182  0.102149  0.390796  0.661500           NaN         NaN         NaN   True
+124  established  All outfield                       goals                                                 Goals      19   1073   0.299576   0.032499  0.267078 -0.082827  0.700384  0.603792      0.278708   -0.070312    0.697229  False
+149  established  All outfield                  aerial_pct                                         Aerials won %      19   1073   0.273483  -0.013903  0.287386 -0.047465  0.597970  0.617869      0.288977   -0.036942    0.613414  False
+131  established  All outfield              penAreaEntries                                  Penalty-area entries      19   1073   0.329072   0.038217  0.290854 -0.136120  0.808705  0.596704      0.290616   -0.109779    0.881086  False
+150  established  All outfield                 dribble_pct                                     Dribble success %      19   1073   0.318720   0.011910  0.306810  0.046704  0.586071  0.627459      0.299211    0.042815    0.561846   True
+145  established  All outfield                   wasFouled                                             Fouls won      19   1073   0.308762  -0.002663  0.311425 -0.128744  0.799978  0.592436      0.307820   -0.187548    0.802184  False
+128  established  All outfield            bigChanceCreated                                   Big chances created      19   1073   0.377340   0.016528  0.360811 -0.102041  0.895219  0.580076      0.370058   -0.170949    0.872343  False
+127  established  All outfield          ontargetScoringAtt                                       Shots on target      19   1073   0.494236   0.030705  0.463530  0.102064  0.838680  0.675479      0.468749    0.081396    0.825914   True
+125  established  All outfield                  goalAssist                                               Assists      19   1073   0.487000   0.020259  0.466741  0.061960  0.955442  0.653259      0.473885    0.065389    0.937933   True
+129  established  All outfield              totalAttAssist                          Chances created (key passes)      19   1073   0.506346   0.029597  0.476749  0.088672  0.897823  0.660666      0.477696    0.083302    0.930437   True
+130  established  All outfield             touchesInOppBox                             Touches in opposition box      19   1073   0.555307   0.006822  0.548486  0.118677  0.981439  0.679502      0.547663    0.116904    0.975203   True
+126  established  All outfield             totalScoringAtt                                                 Shots      19   1073   0.602000   0.010447  0.591553  0.151382  1.037451  0.678275      0.587702    0.127535    1.013401   True
+148  established  All outfield                    duel_pct                                           Duels won %      19   1073   0.615444  -0.005281  0.620726  0.345961  0.918581  0.728356      0.621577    0.329983    0.949368   True
+133  established  All outfield                   totalPass                                      Passes attempted      19   1073   0.643805   0.019823  0.623983  0.287595  0.951900  0.719969      0.617650    0.326811    0.954278   True
+147  established  All outfield                    pass_pct                                     Pass completion %      19   1073   0.650832   0.022944  0.627889  0.333237  0.885177  0.714475      0.633204    0.317175    0.885251   True
+132  established  All outfield                  wonContest                                    Dribbles completed      19   1073   0.643622   0.003658  0.639963  0.194133  1.107309  0.678177      0.642141    0.168097    1.203817   True
+134  established  All outfield  successfulFinalThirdPasses                          Completed final-third passes      19   1073   0.778971   0.034446  0.744524  0.349493  1.198212  0.733997      0.736932    0.323717    1.184905   True
+146  established  All outfield                     touches                                               Touches      19   1073   0.783403   0.022945  0.760457  0.470825  1.066859  0.769608      0.752021    0.470649    1.075277   True
+
+separation Defender debuted
+     outcome  position                        stat                                                 label  n_made  n_not  mean_made   mean_not      diff     ci_lo     ci_hi       auc  age_adj_diff  age_adj_lo  age_adj_hi  clear
+60  debuted  Defender                     age_rel  Age vs others at the same level (negative = younger)      30    395  -0.456606  -0.021332 -0.435274 -0.732180 -0.152707  0.335781           NaN         NaN         NaN   True
+51  debuted  Defender                       fouls                                       Fouls committed      30    395  -0.210299   0.029115 -0.239414 -0.538887  0.071375  0.412152           NaN         NaN         NaN  False
+47  debuted  Defender              totalClearance                                            Clearances      30    395  -0.234747  -0.030822 -0.203925 -0.499240  0.110902  0.442278           NaN         NaN         NaN  False
+49  debuted  Defender                 possLostAll                                       Possession lost      30    395  -0.178635   0.007806 -0.186440 -0.538716  0.151546  0.429367           NaN         NaN         NaN  False
+45  debuted  Defender                interception                                         Interceptions      30    395  -0.072956  -0.049878 -0.023078 -0.311520  0.304028  0.462194           NaN         NaN         NaN  False
+43  debuted  Defender                 totalTackle                                     Tackles attempted      30    395  -0.006453  -0.013221  0.006768 -0.339161  0.329960  0.493333           NaN         NaN         NaN  False
+48  debuted  Defender             outfielderBlock                                                Blocks      30    395  -0.029281  -0.046758  0.017477 -0.295827  0.339208  0.498650           NaN         NaN         NaN  False
+38  debuted  Defender              penAreaEntries                                  Penalty-area entries      30    395   0.073005   0.038170  0.034835 -0.353402  0.492955  0.503966           NaN         NaN         NaN  False
+44  debuted  Defender                   wonTackle                                           Tackles won      30    395   0.015630  -0.025107  0.040737 -0.277488  0.384536  0.494304           NaN         NaN         NaN  False
+35  debuted  Defender            bigChanceCreated                                   Big chances created      30    395   0.073057   0.029697  0.043359 -0.289685  0.460020  0.501013           NaN         NaN         NaN  False
+42  debuted  Defender           accurateLongBalls                                   Accurate long balls      30    395   0.050369  -0.002521  0.052890 -0.323877  0.456846  0.496709           NaN         NaN         NaN  False
+58  debuted  Defender          shot_on_target_pct                                     Shots on target %      30    395   0.109411   0.033996  0.075415 -0.175297  0.308139  0.536658           NaN         NaN         NaN  False
+59  debuted  Defender                         age                             Age at first youth season      30    395  17.429249  17.350779  0.078470 -0.340506  0.544459  0.521941           NaN         NaN         NaN  False
+32  debuted  Defender                  goalAssist                                               Assists      30    395   0.118574   0.023439  0.095135 -0.182018  0.416445  0.552954           NaN         NaN         NaN  False
+37  debuted  Defender             touchesInOppBox                             Touches in opposition box      30    395   0.086199  -0.018355  0.104554 -0.197404  0.458111  0.536287           NaN         NaN         NaN  False
+57  debuted  Defender                 dribble_pct                                     Dribble success %      30    395   0.156005  -0.001051  0.157056 -0.069541  0.398981  0.571477           NaN         NaN         NaN  False
+46  debuted  Defender                ballRecovery                                       Ball recoveries      30    395   0.166276  -0.010291  0.176567 -0.097552  0.484345  0.542447           NaN         NaN         NaN  False
+50  debuted  Defender                dispossessed                                          Dispossessed      30    395   0.196758   0.006743  0.190014 -0.167159  0.587541  0.548439           NaN         NaN         NaN  False
+36  debuted  Defender              totalAttAssist                          Chances created (key passes)      30    395   0.263127   0.012173  0.250953 -0.122055  0.667713  0.567595           NaN         NaN         NaN  False
+52  debuted  Defender                   wasFouled                                             Fouls won      30    395   0.233887  -0.022710  0.256597 -0.062165  0.595231  0.583291           NaN         NaN         NaN  False
+61  debuted  Defender                   pl2_share            Share of youth minutes in PL2 (playing up)      30    395   0.691894   0.422284  0.269610  0.142120  0.394905  0.675907           NaN         NaN         NaN   True
+34  debuted  Defender          ontargetScoringAtt                                       Shots on target      30    395   0.276245  -0.002293  0.278539 -0.023988  0.583961  0.600338           NaN         NaN         NaN  False
+31  debuted  Defender                       goals                                                 Goals      30    395   0.344380   0.011117  0.333263 -0.018509  0.751675  0.589662           NaN         NaN         NaN  False
+33  debuted  Defender             totalScoringAtt                                                 Shots      30    395   0.338535  -0.039920  0.378454  0.025904  0.756991  0.600675           NaN         NaN         NaN   True
+56  debuted  Defender                  aerial_pct                                         Aerials won %      30    395   0.370330  -0.028185  0.398515  0.070289  0.696580  0.663544           NaN         NaN         NaN   True
+54  debuted  Defender                    pass_pct                                     Pass completion %      30    395   0.502136   0.001854  0.500282  0.195004  0.811095  0.656203           NaN         NaN         NaN   True
+40  debuted  Defender                   totalPass                                      Passes attempted      30    395   0.481465  -0.021884  0.503350  0.051815  0.977004  0.598228           NaN         NaN         NaN   True
+41  debuted  Defender  successfulFinalThirdPasses                          Completed final-third passes      30    395   0.535521  -0.011819  0.547339  0.133188  0.958066  0.647511           NaN         NaN         NaN   True
+55  debuted  Defender                    duel_pct                                           Duels won %      30    395   0.541532  -0.045856  0.587388  0.363801  0.842672  0.713165           NaN         NaN         NaN   True
+39  debuted  Defender                  wonContest                                    Dribbles completed      30    395   0.556936  -0.032970  0.589906  0.114717  1.117301  0.624810           NaN         NaN         NaN   True
+53  debuted  Defender                     touches                                               Touches      30    395   0.602551  -0.028525  0.631076  0.215278  1.081028  0.648354           NaN         NaN         NaN   True
+
+separation Midfielder debuted
+     outcome    position                        stat                                                 label  n_made  n_not  mean_made   mean_not      diff     ci_lo     ci_hi       auc  age_adj_diff  age_adj_lo  age_adj_hi  clear
+91  debuted  Midfielder                     age_rel  Age vs others at the same level (negative = younger)      63    432  -0.796575   0.001821 -0.798396 -1.043183 -0.566449  0.248971           NaN         NaN         NaN   True
+90  debuted  Midfielder                         age                             Age at first youth season      63    432  17.084102  17.343873 -0.259771 -0.630571  0.118022  0.452565           NaN         NaN         NaN  False
+76  debuted  Midfielder                interception                                         Interceptions      63    432  -0.156908   0.050667 -0.207575 -0.399749 -0.005423  0.433679           NaN         NaN         NaN   True
+75  debuted  Midfielder                   wonTackle                                           Tackles won      63    432  -0.158723   0.045485 -0.204208 -0.421176  0.022242  0.423501           NaN         NaN         NaN  False
+74  debuted  Midfielder                 totalTackle                                     Tackles attempted      63    432  -0.135001   0.049092 -0.184093 -0.401310  0.049754  0.431805           NaN         NaN         NaN  False
+78  debuted  Midfielder              totalClearance                                            Clearances      63    432  -0.146293  -0.005709 -0.140585 -0.365860  0.092678  0.433532           NaN         NaN         NaN  False
+79  debuted  Midfielder             outfielderBlock                                                Blocks      63    432  -0.107654   0.009315 -0.116969 -0.321660  0.098771  0.447862           NaN         NaN         NaN  False
+82  debuted  Midfielder                       fouls                                       Fouls committed      63    432  -0.065692   0.010066 -0.075758 -0.302345  0.158216  0.460979           NaN         NaN         NaN  False
+87  debuted  Midfielder                  aerial_pct                                         Aerials won %      63    432   0.042981  -0.014840  0.057821 -0.159347  0.266922  0.535567           NaN         NaN         NaN  False
+73  debuted  Midfielder           accurateLongBalls                                   Accurate long balls      63    432   0.070774   0.012005  0.058769 -0.176336  0.311996  0.525096           NaN         NaN         NaN  False
+77  debuted  Midfielder                ballRecovery                                       Ball recoveries      63    432   0.093089   0.027627  0.065463 -0.150675  0.294887  0.513301           NaN         NaN         NaN  False
+88  debuted  Midfielder                 dribble_pct                                     Dribble success %      63    432   0.165402   0.018633  0.146769 -0.018007  0.303908  0.558862           NaN         NaN         NaN  False
+86  debuted  Midfielder                    duel_pct                                           Duels won %      63    432   0.154866  -0.011286  0.166152 -0.050291  0.381712  0.550742           NaN         NaN         NaN  False
+89  debuted  Midfielder          shot_on_target_pct                                     Shots on target %      63    432   0.158359  -0.028159  0.186518  0.005131  0.372346  0.575121           NaN         NaN         NaN   True
+71  debuted  Midfielder                   totalPass                                      Passes attempted      63    432   0.213293   0.024639  0.188654 -0.068167  0.437918  0.550228           NaN         NaN         NaN  False
+81  debuted  Midfielder                dispossessed                                          Dispossessed      63    432   0.206189  -0.021115  0.227304 -0.036259  0.481515  0.574258           NaN         NaN         NaN  False
+80  debuted  Midfielder                 possLostAll                                       Possession lost      63    432   0.224020  -0.007703  0.231723 -0.014721  0.474786  0.575176           NaN         NaN         NaN  False
+92  debuted  Midfielder                   pl2_share            Share of youth minutes in PL2 (playing up)      63    432   0.653248   0.411413  0.241834  0.138393  0.339008  0.662533           NaN         NaN         NaN   True
+85  debuted  Midfielder                    pass_pct                                     Pass completion %      63    432   0.258788  -0.000512  0.259300  0.050757  0.468955  0.578153           NaN         NaN         NaN   True
+83  debuted  Midfielder                   wasFouled                                             Fouls won      63    432   0.282908  -0.025211  0.308119  0.033168  0.584220  0.584730           NaN         NaN         NaN   True
+69  debuted  Midfielder              penAreaEntries                                  Penalty-area entries      63    432   0.351162   0.000382  0.350780  0.083875  0.614289  0.605783           NaN         NaN         NaN   True
+84  debuted  Midfielder                     touches                                               Touches      63    432   0.367214   0.015177  0.352036  0.115244  0.604238  0.610266           NaN         NaN         NaN   True
+63  debuted  Midfielder                  goalAssist                                               Assists      63    432   0.409043  -0.041126  0.450169  0.220013  0.688802  0.644915           NaN         NaN         NaN   True
+62  debuted  Midfielder                       goals                                                 Goals      63    432   0.471219  -0.052830  0.524049  0.268660  0.766794  0.666171           NaN         NaN         NaN   True
+66  debuted  Midfielder            bigChanceCreated                                   Big chances created      63    432   0.480099  -0.061230  0.541329  0.288892  0.806025  0.668504           NaN         NaN         NaN   True
+72  debuted  Midfielder  successfulFinalThirdPasses                          Completed final-third passes      63    432   0.550944  -0.003247  0.554191  0.304843  0.816200  0.665123           NaN         NaN         NaN   True
+67  debuted  Midfielder              totalAttAssist                          Chances created (key passes)      63    432   0.593047  -0.042033  0.635080  0.375392  0.897430  0.690035           NaN         NaN         NaN   True
+70  debuted  Midfielder                  wonContest                                    Dribbles completed      63    432   0.606436  -0.066274  0.672710  0.405300  0.931907  0.692497           NaN         NaN         NaN   True
+65  debuted  Midfielder          ontargetScoringAtt                                       Shots on target      63    432   0.641266  -0.061359  0.702625  0.446388  0.972203  0.695730           NaN         NaN         NaN   True
+68  debuted  Midfielder             touchesInOppBox                             Touches in opposition box      63    432   0.652766  -0.074394  0.727160  0.463343  1.009749  0.694371           NaN         NaN         NaN   True
+64  debuted  Midfielder             totalScoringAtt                                                 Shots      63    432   0.693672  -0.069033  0.762704  0.462990  1.058319  0.695547           NaN         NaN         NaN   True
+
+separation Forward debuted
+      outcome position                        stat                                                 label  n_made  n_not  mean_made   mean_not      diff     ci_lo     ci_hi       auc  age_adj_diff  age_adj_lo  age_adj_hi  clear
+122  debuted  Forward                     age_rel  Age vs others at the same level (negative = younger)      27    145  -0.511843  -0.075834 -0.436009 -0.762398 -0.097061  0.320307           NaN         NaN         NaN   True
+110  debuted  Forward             outfielderBlock                                                Blocks      27    145  -0.245024   0.035226 -0.280250 -0.554575  0.035438  0.341762           NaN         NaN         NaN  False
+109  debuted  Forward              totalClearance                                            Clearances      27    145  -0.247436   0.020349 -0.267785 -0.558573  0.035156  0.387356           NaN         NaN         NaN  False
+119  debuted  Forward                 dribble_pct                                     Dribble success %      27    145  -0.081453  -0.011729 -0.069724 -0.413202  0.251788  0.496041           NaN         NaN         NaN  False
+107  debuted  Forward                interception                                         Interceptions      27    145   0.014211   0.020222 -0.006011 -0.294902  0.312008  0.507535           NaN         NaN         NaN  False
+108  debuted  Forward                ballRecovery                                       Ball recoveries      27    145  -0.008870  -0.010867  0.001998 -0.382104  0.377074  0.487101           NaN         NaN         NaN  False
+105  debuted  Forward                 totalTackle                                     Tackles attempted      27    145   0.014950  -0.040424  0.055374 -0.248138  0.359183  0.540741           NaN         NaN         NaN  False
+118  debuted  Forward                  aerial_pct                                         Aerials won %      27    145   0.034569  -0.047782  0.082351 -0.239975  0.365432  0.536654           NaN         NaN         NaN  False
+116  debuted  Forward                    pass_pct                                     Pass completion %      27    145   0.105278   0.015607  0.089671 -0.220238  0.406074  0.521839           NaN         NaN         NaN  False
+106  debuted  Forward                   wonTackle                                           Tackles won      27    145   0.053896  -0.039800  0.093696 -0.208608  0.399225  0.562963           NaN         NaN         NaN  False
+121  debuted  Forward                         age                             Age at first youth season      27    145  17.557127  17.450004  0.107124 -0.400370  0.645513  0.528736           NaN         NaN         NaN  False
+112  debuted  Forward                dispossessed                                          Dispossessed      27    145   0.092349  -0.054822  0.147171 -0.198557  0.530466  0.536143           NaN         NaN         NaN  False
+113  debuted  Forward                       fouls                                       Fouls committed      27    145   0.058691  -0.091844  0.150535 -0.224299  0.525499  0.547126           NaN         NaN         NaN  False
+120  debuted  Forward          shot_on_target_pct                                     Shots on target %      27    145   0.242846   0.079225  0.163621 -0.084290  0.417360  0.558110           NaN         NaN         NaN  False
+104  debuted  Forward           accurateLongBalls                                   Accurate long balls      27    145   0.175862   0.006673  0.169189 -0.185494  0.565319  0.551469           NaN         NaN         NaN  False
+123  debuted  Forward                   pl2_share            Share of youth minutes in PL2 (playing up)      27    145   0.684653   0.491342  0.193311  0.037260  0.339310  0.629885           NaN         NaN         NaN   True
+117  debuted  Forward                    duel_pct                                           Duels won %      27    145   0.180592  -0.012849  0.193441 -0.113457  0.476050  0.569604           NaN         NaN         NaN  False
+102  debuted  Forward                   totalPass                                      Passes attempted      27    145   0.195751  -0.011478  0.207229 -0.147263  0.605583  0.578544           NaN         NaN         NaN  False
+100  debuted  Forward              penAreaEntries                                  Penalty-area entries      27    145   0.234979   0.009376  0.225603 -0.265147  0.765203  0.512899           NaN         NaN         NaN  False
+114  debuted  Forward                   wasFouled                                             Fouls won      27    145   0.190647  -0.049081  0.239728 -0.144674  0.606812  0.591060           NaN         NaN         NaN  False
+103  debuted  Forward  successfulFinalThirdPasses                          Completed final-third passes      27    145   0.259620   0.000328  0.259292 -0.127345  0.710206  0.588250           NaN         NaN         NaN  False
+111  debuted  Forward                 possLostAll                                       Possession lost      27    145   0.203768  -0.065714  0.269482 -0.085759  0.636295  0.581865           NaN         NaN         NaN  False
+98   debuted  Forward              totalAttAssist                          Chances created (key passes)      27    145   0.349379   0.000268  0.349111 -0.013912  0.729544  0.593103           NaN         NaN         NaN  False
+101  debuted  Forward                  wonContest                                    Dribbles completed      27    145   0.320350  -0.039692  0.360042 -0.097341  0.847778  0.585696           NaN         NaN         NaN  False
+94   debuted  Forward                  goalAssist                                               Assists      27    145   0.378245  -0.000280  0.378525  0.028290  0.743847  0.626948           NaN         NaN         NaN   True
+115  debuted  Forward                     touches                                               Touches      27    145   0.339585  -0.042513  0.382098  0.036429  0.741056  0.633972           NaN         NaN         NaN   True
+97   debuted  Forward            bigChanceCreated                                   Big chances created      27    145   0.366880  -0.018750  0.385630  0.028343  0.740894  0.633206           NaN         NaN         NaN   True
+93   debuted  Forward                       goals                                                 Goals      27    145   0.649402   0.009944  0.639458  0.239749  1.067345  0.674840           NaN         NaN         NaN   True
+95   debuted  Forward             totalScoringAtt                                                 Shots      27    145   0.716251  -0.034193  0.750444  0.365331  1.195393  0.711622           NaN         NaN         NaN   True
+99   debuted  Forward             touchesInOppBox                             Touches in opposition box      27    145   0.711930  -0.039126  0.751056  0.357271  1.165692  0.719540           NaN         NaN         NaN   True
+96   debuted  Forward          ontargetScoringAtt                                       Shots on target      27    145   0.791494  -0.002120  0.793614  0.382758  1.181991  0.725670           NaN         NaN         NaN   True
+
+carry-over
+                   stat                         label   n  spearman     ci_lo     ci_hi  youth_z_mean  senior_z_mean    change
+17           wasFouled                     Fouls won  21  0.703896  0.317957  0.920162      0.396639       0.306535 -0.090104
+0                goals                         Goals  21  0.624675  0.113588  0.894910      0.223416       0.035828 -0.187588
+6           wonContest            Dribbles completed  21  0.614286  0.220465  0.837292      0.735472       0.875798  0.140326
+10           wonTackle                   Tackles won  21  0.588312  0.140318  0.852943     -0.103716       0.143739  0.247455
+9          totalTackle             Tackles attempted  21  0.585714  0.190727  0.815961     -0.077213       0.128941  0.206154
+4       totalAttAssist  Chances created (key passes)  21  0.559740  0.135164  0.762663      0.449219       0.029881 -0.419338
+3   ontargetScoringAtt               Shots on target  21  0.553247  0.123098  0.838704      0.448237      -0.017499 -0.465736
+15         possLostAll               Possession lost  21  0.551948  0.103096  0.816523      0.089448      -0.004007 -0.093455
+21          aerial_pct                 Aerials won %  21  0.514286  0.089164  0.793884      0.299548      -0.427558 -0.727106
+11        interception                 Interceptions  21  0.450649  0.026283  0.759066      0.084011      -0.096906 -0.180917
+12        ballRecovery               Ball recoveries  21  0.433766 -0.071430  0.762118      0.163095       0.024972 -0.138123
+19            pass_pct             Pass completion %  21  0.427273 -0.026299  0.733984      0.685884       0.483293 -0.202590
+13      totalClearance                    Clearances  21  0.422078 -0.045935  0.768338     -0.007749      -0.315036 -0.307287
+8    accurateLongBalls           Accurate long balls  21  0.327273 -0.156594  0.725689      0.216393      -0.426124 -0.642517
+1           goalAssist                       Assists  21  0.324675 -0.106381  0.713739      0.414700      -0.223159 -0.637859
+5      touchesInOppBox     Touches in opposition box  21  0.281818 -0.177271  0.681799      0.558854       0.194203 -0.364651
+20            duel_pct                   Duels won %  21  0.272727 -0.233499  0.704801      0.631899       0.228730 -0.403169
+18             touches                       Touches  21  0.255844 -0.257488  0.711015      0.853946       0.166872 -0.687074
+2      totalScoringAtt                         Shots  21  0.249351 -0.257714  0.664069      0.608187      -0.242177 -0.850364
+14     outfielderBlock                        Blocks  21  0.194805 -0.304846  0.629576      0.116324       0.007186 -0.109138
+7            totalPass              Passes attempted  21  0.190909 -0.343468  0.687329      0.705742       0.032471 -0.673271
+23  shot_on_target_pct             Shots on target %  21  0.067532 -0.430098  0.553819      0.152663       0.400045  0.247382
+22         dribble_pct             Dribble success %  21  0.006496 -0.421820  0.477984      0.327809       0.007971 -0.319838
+16               fouls               Fouls committed  21 -0.005195 -0.465445  0.472105     -0.198564      -0.394375 -0.195812
+
+standouts
+                                 name         pos birth_date    mins  pl2_share  youth_score
+player_id                                                                                  
+496202                Adedire Mebude     Forward 2004-05-28  1971.0   1.000000     1.547825
+535264               Bradley Ibrahim  Midfielder 2004-10-21  1505.0   0.417276     1.344400
+496932                 Cameron Bragg  Midfielder 2005-04-10  4215.0   1.000000     1.218683
+432945                    Jack Spong  Midfielder 2002-02-04   900.0   1.000000     1.104289
+515023              Matt Dibley-Dias  Midfielder 2003-10-29  3225.0   1.000000     1.056095
+498046     Salah-Eddine Oulad M'hand  Midfielder 2003-08-20  1491.0   1.000000     0.932976
+470296      Jeremiah Chilokoa-Mullen    Defender 2004-06-17  2997.0   1.000000     0.882264
+570919                Josh Robertson  Midfielder 2005-03-30  2179.0   0.000000     0.857828
+543866              Charlie McArthur    Defender 2005-05-12  1331.0   1.000000     0.855171
+547680           Delano McCoy-Splatt  Midfielder 2004-10-11  1762.0   0.498865     0.838835
+514154                   Ben Jackson    Defender 2003-09-03  1487.0   1.000000     0.825948
+524070               Jamie McDonnell    Defender 2004-02-16  3445.0   1.000000     0.808731
+539721             Ruairi McConville    Defender 2005-05-01  2480.0   0.708468     0.804534
+493121              Roshaun Mathurin     Forward 2004-01-23  1433.0   1.000000     0.779015
+491785                   Harvey Vale  Midfielder 2003-09-11  1605.0   1.000000     0.757457
+467123                   Jack Hannah    Defender 2002-12-25  2594.0   1.000000     0.748644
+490096                 Jamie Andrews  Midfielder 2002-08-31  1151.0   1.000000     0.739839
+543509                 Patrick Kelly  Midfielder 2004-10-02  2635.0   0.613283     0.735630
+434043                Alex Robertson  Midfielder 2003-04-17  1246.0   1.000000     0.718425
+519223              Sammy Braybrooke  Midfielder 2004-03-12  1953.0   1.000000     0.717472
+490887                      Zach Awe    Defender 2004-01-09  3349.0   1.000000     0.716093
+504758                    Brad Hills    Defender 2004-03-10  1261.0   1.000000     0.694649
+448496                      Ed Turns    Defender 2002-10-18  1133.0   1.000000     0.673666
+548328                    Matt Baker    Defender 2003-02-06   961.0   1.000000     0.671518
+536110                   Josh Feeney    Defender 2005-05-06  2119.0   1.000000     0.647052
+514613                   Zak Johnson    Defender 2004-07-30  1497.0   1.000000     0.626797
+587999                  Ben Crompton    Defender 2003-12-17  1523.0   1.000000     0.622163
+244853         Malachi Fagan-Walcott    Defender 2002-03-11  1643.0   1.000000     0.594372
+480818                Billy Koumetio    Defender 2002-11-14  1170.0   1.000000     0.576709
+515500                  Rhys Bennett    Defender 2003-10-30  1832.0   1.000000     0.571114
+494263               Filozofe Mabete    Defender 2004-12-11  1946.0   0.364337     0.563916
+
+standouts vs graduates
+       position                        stat                                                 label  n_standouts  n_graduates  standouts_mean  graduates_mean       gap
+0     Defender                       goals                                                 Goals           17           30        0.454538        0.344380  0.110157
+1     Defender                  goalAssist                                               Assists           17           30       -0.450234        0.118574 -0.568808
+2     Defender             totalScoringAtt                                                 Shots           17           30        0.403167        0.338535  0.064633
+3     Defender          ontargetScoringAtt                                       Shots on target           17           30        0.181777        0.276245 -0.094469
+4     Defender            bigChanceCreated                                   Big chances created           17           30       -0.366199        0.073057 -0.439255
+5     Defender              totalAttAssist                          Chances created (key passes)           17           30       -0.522513        0.263127 -0.785640
+6     Defender             touchesInOppBox                             Touches in opposition box           17           30        0.027739        0.086199 -0.058460
+7     Defender              penAreaEntries                                  Penalty-area entries           17           30       -0.690628        0.073005 -0.763632
+8     Defender                  wonContest                                    Dribbles completed           17           30       -0.262015        0.556936 -0.818951
+9     Defender                   totalPass                                      Passes attempted           17           30        1.019961        0.481465  0.538496
+10    Defender  successfulFinalThirdPasses                          Completed final-third passes           17           30       -0.375913        0.535521 -0.911434
+11    Defender           accurateLongBalls                                   Accurate long balls           17           30        0.736698        0.050369  0.686329
+12    Defender                 totalTackle                                     Tackles attempted           17           30        0.060032       -0.006453  0.066485
+13    Defender                   wonTackle                                           Tackles won           17           30        0.123545        0.015630  0.107915
+14    Defender                interception                                         Interceptions           17           30        0.351305       -0.072956  0.424261
+15    Defender                ballRecovery                                       Ball recoveries           17           30        0.747279        0.166276  0.581003
+16    Defender              totalClearance                                            Clearances           17           30        0.911093       -0.234747  1.145840
+17    Defender             outfielderBlock                                                Blocks           17           30        0.565822       -0.029281  0.595103
+18    Defender                 possLostAll                                       Possession lost           17           30       -0.584028       -0.178635 -0.405394
+19    Defender                dispossessed                                          Dispossessed           17           30       -0.467279        0.196758 -0.664037
+20    Defender                       fouls                                       Fouls committed           17           30        0.246910       -0.210299  0.457209
+21    Defender                   wasFouled                                             Fouls won           17           30       -0.054525        0.233887 -0.288411
+22    Defender                     touches                                               Touches           17           30        0.829503        0.602551  0.226952
+23    Defender                    pass_pct                                     Pass completion %           17           30        0.656362        0.502136  0.154226
+24    Defender                    duel_pct                                           Duels won %           17           30        0.962305        0.541532  0.420773
+25    Defender                  aerial_pct                                         Aerials won %           17           30        0.820310        0.370330  0.449981
+26    Defender                 dribble_pct                                     Dribble success %           17           30        0.243084        0.156005  0.087079
+27    Defender          shot_on_target_pct                                     Shots on target %           17           30       -0.044675        0.109411 -0.154086
+28    Defender                         age                             Age at first youth season           17           30       18.740267       17.429249  1.311017
+29    Defender                     age_rel  Age vs others at the same level (negative = younger)           17           30        0.137889       -0.456606  0.594494
+30    Defender                   pl2_share            Share of youth minutes in PL2 (playing up)           17           30        0.945459        0.691894  0.253565
+31     Forward                       goals                                                 Goals            2           27       -0.248583        0.649402 -0.897985
+32     Forward                  goalAssist                                               Assists            2           27        2.288928        0.378245  1.910683
+33     Forward             totalScoringAtt                                                 Shots            2           27       -0.191639        0.716251 -0.907890
+34     Forward          ontargetScoringAtt                                       Shots on target            2           27        0.176510        0.791494 -0.614984
+35     Forward            bigChanceCreated                                   Big chances created            2           27        2.586625        0.366880  2.219745
+36     Forward              totalAttAssist                          Chances created (key passes)            2           27        1.659075        0.349379  1.309696
+37     Forward             touchesInOppBox                             Touches in opposition box            2           27        1.268018        0.711930  0.556088
+38     Forward              penAreaEntries                                  Penalty-area entries            2           27        2.368974        0.234979  2.133995
+39     Forward                  wonContest                                    Dribbles completed            2           27        1.058528        0.320350  0.738178
+40     Forward                   totalPass                                      Passes attempted            2           27        1.089297        0.195751  0.893546
+41     Forward  successfulFinalThirdPasses                          Completed final-third passes            2           27        1.493914        0.259620  1.234294
+42     Forward           accurateLongBalls                                   Accurate long balls            2           27        0.557500        0.175862  0.381638
+43     Forward                 totalTackle                                     Tackles attempted            2           27       -0.283303        0.014950 -0.298253
+44     Forward                   wonTackle                                           Tackles won            2           27       -0.284546        0.053896 -0.338441
+45     Forward                interception                                         Interceptions            2           27        0.850590        0.014211  0.836379
+46     Forward                ballRecovery                                       Ball recoveries            2           27        0.214968       -0.008870  0.223837
+47     Forward              totalClearance                                            Clearances            2           27       -0.599152       -0.247436 -0.351716
+48     Forward             outfielderBlock                                                Blocks            2           27       -0.747774       -0.245024 -0.502750
+49     Forward                 possLostAll                                       Possession lost            2           27        1.363869        0.203768  1.160100
+50     Forward                dispossessed                                          Dispossessed            2           27       -0.252601        0.092349 -0.344950
+51     Forward                       fouls                                       Fouls committed            2           27       -0.898018        0.058691 -0.956709
+52     Forward                   wasFouled                                             Fouls won            2           27       -0.733672        0.190647 -0.924319
+53     Forward                     touches                                               Touches            2           27        1.214776        0.339585  0.875190
+54     Forward                    pass_pct                                     Pass completion %            2           27        0.134884        0.105278  0.029606
+55     Forward                    duel_pct                                           Duels won %            2           27        0.310033        0.180592  0.129441
+56     Forward                  aerial_pct                                         Aerials won %            2           27        0.184394        0.034569  0.149824
+57     Forward                 dribble_pct                                     Dribble success %            2           27        0.374548       -0.081453  0.456001
+58     Forward          shot_on_target_pct                                     Shots on target %            2           27        0.615913        0.242846  0.373067
+59     Forward                         age                             Age at first youth season            2           27       18.933607       17.557127  1.376480
+60     Forward                     age_rel  Age vs others at the same level (negative = younger)            2           27       -0.183984       -0.511843  0.327859
+61     Forward                   pl2_share            Share of youth minutes in PL2 (playing up)            2           27        1.000000        0.684653  0.315347
+62  Midfielder                       goals                                                 Goals           12           63        0.121053        0.471219 -0.350167
+63  Midfielder                  goalAssist                                               Assists           12           63        0.632454        0.409043  0.223411
+64  Midfielder             totalScoringAtt                                                 Shots           12           63        0.463212        0.693672 -0.230460
+65  Midfielder          ontargetScoringAtt                                       Shots on target           12           63        0.407292        0.641266 -0.233974
+66  Midfielder            bigChanceCreated                                   Big chances created           12           63        0.522524        0.480099  0.042425
+67  Midfielder              totalAttAssist                          Chances created (key passes)           12           63        1.212733        0.593047  0.619686
+68  Midfielder             touchesInOppBox                             Touches in opposition box           12           63       -0.119309        0.652766 -0.772075
+69  Midfielder              penAreaEntries                                  Penalty-area entries           12           63        1.171387        0.351162  0.820225
+70  Midfielder                  wonContest                                    Dribbles completed           12           63        0.121357        0.606436 -0.485079
+71  Midfielder                   totalPass                                      Passes attempted           12           63        1.398508        0.213293  1.185215
+72  Midfielder  successfulFinalThirdPasses                          Completed final-third passes           12           63        1.545467        0.550944  0.994523
+73  Midfielder           accurateLongBalls                                   Accurate long balls           12           63        1.310232        0.070774  1.239458
+74  Midfielder                 totalTackle                                     Tackles attempted           12           63        0.794847       -0.135001  0.929848
+75  Midfielder                   wonTackle                                           Tackles won           12           63        0.659551       -0.158723  0.818275
+76  Midfielder                interception                                         Interceptions           12           63        0.388393       -0.156908  0.545302
+77  Midfielder                ballRecovery                                       Ball recoveries           12           63        1.329342        0.093089  1.236252
+78  Midfielder              totalClearance                                            Clearances           12           63       -0.247735       -0.146293 -0.101441
+79  Midfielder             outfielderBlock                                                Blocks           12           63        0.217611       -0.107654  0.325265
+80  Midfielder                 possLostAll                                       Possession lost           12           63        0.677434        0.224020  0.453414
+81  Midfielder                dispossessed                                          Dispossessed           12           63       -0.039872        0.206189 -0.246061
+82  Midfielder                       fouls                                       Fouls committed           12           63        0.488242       -0.065692  0.553934
+83  Midfielder                   wasFouled                                             Fouls won           12           63       -0.050338        0.282908 -0.333246
+84  Midfielder                     touches                                               Touches           12           63        1.588149        0.367214  1.220935
+85  Midfielder                    pass_pct                                     Pass completion %           12           63        0.558469        0.258788  0.299681
+86  Midfielder                    duel_pct                                           Duels won %           12           63        0.248261        0.154866  0.093395
+87  Midfielder                  aerial_pct                                         Aerials won %           12           63        0.081525        0.042981  0.038544
+88  Midfielder                 dribble_pct                                     Dribble success %           12           63        0.330030        0.165402  0.164629
+89  Midfielder          shot_on_target_pct                                     Shots on target %           12           63        0.098413        0.158359 -0.059945
+90  Midfielder                         age                             Age at first youth season           12           63       18.812914       17.084102  1.728812
+91  Midfielder                     age_rel  Age vs others at the same level (negative = younger)           12           63        0.602564       -0.796575  1.399139
+92  Midfielder                   pl2_share            Share of youth minutes in PL2 (playing up)           12           63        0.794119        0.653248  0.140871
